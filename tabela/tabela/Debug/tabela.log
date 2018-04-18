@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+c:\users\damia\desktop\tabela\tabela\źródło.cpp(12): warning C4838: konwersja z „double” do „float” wymaga konwersji zawężającej
+c:\users\damia\desktop\tabela\tabela\źródło.cpp(12): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  tabela.vcxproj -> C:\Users\damia\Desktop\tabela\Debug\tabela.exe
